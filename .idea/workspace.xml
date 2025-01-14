@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53c3efde-d97b-4b6f-9092-8d8292a9db54" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek27866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek2908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek9086.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +49,69 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/User/Desktop/작업환경/CodingTest/src/Main.java",
     "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Baek10807.executor": "Run"
+    "애플리케이션.Baek10807.executor": "Run",
+    "애플리케이션.Baek10871.executor": "Run",
+    "애플리케이션.Baek2743.executor": "Run",
+    "애플리케이션.Baek27866.executor": "Run",
+    "애플리케이션.Baek2908.executor": "Run",
+    "애플리케이션.Baek9086.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Baek10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek10807" />
+  <component name="RunManager" selected="애플리케이션.Baek2908">
+    <configuration name="Baek10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek10871" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek2743" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek27866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek27866" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek2908" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek9086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek9086" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -62,7 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Baek10807" />
+        <item itemvalue="애플리케이션.Baek2908" />
+        <item itemvalue="애플리케이션.Baek9086" />
+        <item itemvalue="애플리케이션.Baek2743" />
+        <item itemvalue="애플리케이션.Baek27866" />
+        <item itemvalue="애플리케이션.Baek10871" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736845082080</updated>
-      <workItem from="1736845083187" duration="3642000" />
+      <workItem from="1736845083187" duration="8717000" />
     </task>
     <servers />
   </component>
