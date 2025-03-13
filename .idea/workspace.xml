@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53c3efde-d97b-4b6f-9092-8d8292a9db54" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek2743.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek27866.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek2908.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Baek9086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programers/같은숫자는싫어.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programers/기능개발.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2rc4YiqVruLI3vB9Zyfk3xY3zrH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,9 +35,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.같은숫자는싫어.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LeeGyeSeung/Desktop/CodingTest/CodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,13 +55,13 @@
     "애플리케이션.Baek9086.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Baek2908">
-    <configuration name="Baek10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek10871" />
+  <component name="RunManager" selected="Application.같은숫자는싫어">
+    <configuration name="같은숫자는싫어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programers.같은숫자는싫어" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="PATTERN" value="Programers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek2743" />
+    <configuration name="Baek10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek10871" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -125,19 +123,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Baek2908" />
-        <item itemvalue="애플리케이션.Baek9086" />
-        <item itemvalue="애플리케이션.Baek2743" />
-        <item itemvalue="애플리케이션.Baek27866" />
-        <item itemvalue="애플리케이션.Baek10871" />
+        <item itemvalue="Application.같은숫자는싫어" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -150,6 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1736845082080</updated>
       <workItem from="1736845083187" duration="8717000" />
+      <workItem from="1740905615445" duration="5132000" />
+      <workItem from="1741081218277" duration="3785000" />
+      <workItem from="1741339493222" duration="598000" />
+      <workItem from="1741425343324" duration="2326000" />
+      <workItem from="1741529643057" duration="12000" />
+      <workItem from="1741829353250" duration="10387000" />
     </task>
     <servers />
   </component>
