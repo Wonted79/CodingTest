@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53c3efde-d97b-4b6f-9092-8d8292a9db54" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programers/같은숫자는싫어.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programers/기능개발.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programers/기능개발.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programers/기능개발.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.같은숫자는싫어.executor": "Run",
+    "Application.기능개발.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -55,9 +55,22 @@
     "애플리케이션.Baek9086.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.같은숫자는싫어">
+  <component name="RunManager" selected="Application.기능개발">
     <configuration name="같은숫자는싫어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programers.같은숫자는싫어" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programers.기능개발" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -95,19 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek2908" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Baek9086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.Baek9086" />
       <module name="CodingTest" />
@@ -123,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.기능개발" />
         <item itemvalue="Application.같은숫자는싫어" />
       </list>
     </recent_temporary>
@@ -149,7 +150,8 @@
       <workItem from="1741339493222" duration="598000" />
       <workItem from="1741425343324" duration="2326000" />
       <workItem from="1741529643057" duration="12000" />
-      <workItem from="1741829353250" duration="10387000" />
+      <workItem from="1741829353250" duration="10760000" />
+      <workItem from="1742036835780" duration="1868000" />
     </task>
     <servers />
   </component>
